@@ -1,0 +1,5 @@
+
+=== SM_QUERYCHR nChrCnt=2 ===
+decoded: [堕落天使/1/1/40/0/男法师/1/1/1/0/]
+chr[0] name=堕落天使 class=1 gender=1 level=40 up=0
+chr[1] name=男法师 class=1 gender=1 level=1 up=0

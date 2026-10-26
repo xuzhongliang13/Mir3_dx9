@@ -1,0 +1,44 @@
+# ---- build outputs ----
+build_dx9/
+*.o
+*.obj
+*.exe
+*.ilk
+*.pdb
+link_status.txt
+
+# ---- accidental redirect targets / junk ----
+nul
+LogWIL.txt
+
+# ---- backups ----
+*.backup_*
+*.backup
+*.bak
+*.bak_*
+*.bak-*
+*.orig
+
+# ---- build logs (do not accumulate per-build .log files) ----
+build_*.log
+
+# ---- MSVC project cruft (build uses build_current.py, which globs *.cpp) ----
+*.dsp
+*.dsw
+*.opt
+*.plg
+*.positions
+*.aps
+
+# ---- runtime diagnostic dumps (written to D:\ by temporary diag code) ----
+ability_dump.txt
+weight_log.txt
+querychr_dump.txt
+logon_dump.txt
+bag_dump.txt
+text_diag.txt
+CrashLog.txt
+shield_diag.txt
+shield_allmsg.txt
+shield_state.txt
+shield_magicfire.txt

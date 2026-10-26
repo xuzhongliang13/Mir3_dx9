@@ -1,0 +1,7 @@
+
+=== SM_LOGON ===
+wl.lParam1=0x41020900 lParam2=0x00000000 nTag1=0 nTag2=0
+FEATURE: gender=0 weapon=9 dress=2 hair=65
+FEATUREEX: horse=0 dressColor=47486 hairColor=2113 weaponColor=0 nEft=1090652416
+bDir=5 pos=(158,152)  sizeof(FEATURE)=4 FEATUREEX=10 MESSAGEBODYWL=16 FEATURESIZEEX=14
+Create()=1  m_bMyHeroSetted=1
